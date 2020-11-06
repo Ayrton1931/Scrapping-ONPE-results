@@ -200,12 +200,7 @@ for dept in list_sub_sector1[3:]:
             List_votos.append(votos_df)
             
 len(list_cantidad_dist)           
-##### Hasta 40000         
-list_votos_4= List_votos            
-list_participacion_4= List_participacion            
-
-list_votos_f = list_votos_4 + List_votos
-list_part_f = list_participacion_4 +  List_participacion                  
+               
     
 for xx in range(0, len(list_votos_f)) :
     if xx==0:
